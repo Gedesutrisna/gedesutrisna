@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mangde</h1>
----
 <h3 align="center">A Passionate Backend Developer</h3>
 
 <p align="center">
